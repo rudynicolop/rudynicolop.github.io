@@ -27,7 +27,9 @@ Work experience
   * Mentors: Nate Foster (Cornell)
   * Rigorously defined the static semantics of the network programming language p4 in terms of an operational semantics.
   * Contributed to OCaml-written type-checker.
-  
+
+<!--
+
 Skills
 ======
 * Skill 1
@@ -36,6 +38,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+-->
 
 Publications
 ======
@@ -50,13 +54,14 @@ Publications
 
 	<li>
 		<b><a href="https://arxiv.org/abs/2011.05948">Petr4: Formal Foundations for P4 Data Planes</a></b>
-		<br /> Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, <b>Rudy Peterson<b>, Alaia Solko-Breslin, Amanda Xu, Nate Foster <br />
+		<br /> Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, <b>Rudy Peterson</b>, Alaia Solko-Breslin, Amanda Xu, Nate Foster <br />
 		<b>POPL 2020</b>
 	</li>
 </ul>
 
 
 <!--
+
 Talks
 ======
 <ul>
@@ -64,6 +69,7 @@ Talks
 	<li></li>
 
 </ul>
+
 -->
 
 Teaching
