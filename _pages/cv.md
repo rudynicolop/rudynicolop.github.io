@@ -47,7 +47,7 @@ Publications
 	<li>
 		<b><a href="https://dl.acm.org/doi/abs/10.1145/3573105.3575670">P4Cub: A Little Language for Big Routers</a></b>
 		<br /> <b>Rudy Peterson</b>, Eric Hayden Campbell, John Chen, Natalie Isak, Calvin Shyu, Ryan Doenges, Parisa Ataei, and Nate Foster <br />
-		<b><a href="https://www.youtube.com/watch?v=GIzthatfKWk&list=PLyrlk8Xaylp6EB6XceHKB-UKBfmYYJAbH&index=10>talk</a></b>
+		<b><a href="https://www.youtube.com/watch?v=GIzthatfKWk&list=PLyrlk8Xaylp6EB6XceHKB-UKBfmYYJAbH&index=10">talk</a></b>
 		<b>CPP 2023</b>
 	
 	</li>
