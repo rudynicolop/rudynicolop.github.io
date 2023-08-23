@@ -13,7 +13,7 @@ Education
 ======
 **ETH Zurich**, Zurich Switzerland\
 Sep 2023 - May 2025 (expected)\
-M.S. in Computer Science\
+M.S. in Computer Science
 
 **Cornell University**, Ithaca NY\
 Aug. 2016 – May 2020\
