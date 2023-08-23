@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Rudy Peterson"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "CS grad student"
-  location         : "Zurich, Switzerland"
+  location         : "ETH Zurich"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
