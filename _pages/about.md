@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Think of what to put here...
-
 About me
 ======
 Hi my name is Rudy. I'm an incoming student at ETH Zurich. I study programming languages and formal verification. I'm interesting in compiler verification, formalizing language semantics, dependent type theory, and proof assistants such as Coq and Agda.
