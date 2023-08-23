@@ -25,11 +25,11 @@ Arts & Sciences Tanner Dean’s Scholar
 
 Publications
 ======
-[P4Cub: A Little Language for Big Routers]("http://rudynicolop.github.io/publication/2023-01-11-p4cub")\
+[P4Cub: A Little Language for Big Routers](http://rudynicolop.github.io/publications/2023-01-11-p4cub)\
 **Rudy Peterson**, Eric Hayden Campbell, John Chen, Natalie Isak, Calvin Shyu, Ryan Doenges, Parisa Ataei, and Nate Foster.\
 CPP 2023
 
-[Petr4: Formal Foundations for P4 Data Planes]("http://rudynicolop.github.io/publication/2021-01-04-petr4")\
+[Petr4: Formal Foundations for P4 Data Planes](http://rudynicolop.github.io/publications/2021-01-04-petr4)\
 Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, **Rudy Peterson**, Alaia Solko-Breslin, Amanda Xu, Nate Foster.\
 POPL 2020
 
