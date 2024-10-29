@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi my name is Rudy. I'm an incoming student at ETH Zurich. I study programming languages and formal verification. I'm interesting in compiler verification, formalizing language semantics, dependent type theory, and proof assistants such as Coq and Agda.
+Hi my name is Rudy. I study programming languages and interactive theorem-proving. I'm interested in compiler verification, formalizing language semantics, dependent type theory, and proof assistants such as Coq and Agda.
 
-Previously I completed my Bachelor's at Cornell University where I was advised by Professor Adrian Sampson. I worked on formalizing P4's semantics in the Petr4 under Professor Nate Foster. Furthermore I collaborated with Professor Andrew Appel on building a type system for P4.
+I am currently a Direct Doctorate student at ETH Zurich. I am working on logical atomicity in Iris with [Ralf Jung](https://research.ralfj.de/).
 
-I love reading, travel, and music.
+Previously I completed my Bachelor's at Cornell University where I was advised by Professor [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). I worked on formalizing P4's semantics in the Petr4 under Professor [Nate Foster](https://www.cs.cornell.edu/~jnfoster/). Furthermore I collaborated with Professor [Andrew Appel](https://www.cs.princeton.edu/~appel/) on building a type system for P4.
+
+I like travel, fiction, and cats (see Pico in the photo)!
