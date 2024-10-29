@@ -98,7 +98,7 @@ Fall 2019\
 Built fault-tolerant 3-phase Commit, Paxos, & Clusters of Order-Preserving Servers (COPS) in Golang in a team of 2.\
 In a team of 2 for CS 5414 Distributed Computing at Cornell.
 
-**Critter World**
+**Critter World**\
 Fall 2017\
 Java written DSL for a "critter" program, including parsing and interpretation.\
 ``Critters" interact as clients to a game server with a GUI.\
