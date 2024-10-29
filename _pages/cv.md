@@ -12,16 +12,22 @@ redirect_from:
 Education
 ======
 **ETH Zurich**, Zurich Switzerland\
-Sep 2023 - May 2025 (expected)\
-M.S. in Computer Science
+Sep 2023 - Present\
+M.Sc. in Computer Science\
+Direct Doctorate Scholarship
 
 **Cornell University**, Ithaca NY\
 Aug. 2016 – May 2020\
 B.A. in Computer Science & Physics\
 Advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)\
 _Magna Cum Laude_ Computer Science\
-Dean’s list Fall 2016, Spring 2017, Fall 2017, Spring 2019\
+Dean’s List Fall 2016, Spring 2017, Fall 2017, Spring 2019\
 Arts & Sciences Tanner Dean’s Scholar
+
+**Selected coursework**\
+Formal Verification, Compilers, Programming Languages, Big Data,\
+Distributed Computing, Functional Programming, Algorithms,\
+Cryptography, Security, Formal Language Theory, Operating Systems
 
 Publications
 ======
@@ -35,10 +41,15 @@ POPL 2020
 
 Research Experience
 ======
+**Logical Atomicity in Iris**\
+Aug 2024 - Present: Student Researcher\
+Mentor: [Ralf Jung](https://research.ralfj.de/)\
+Working on replacing the coinductive definition of logically-atomic hoare triples in Iris to relieve clients' proof burden to show that atomic updates are preserved in abort cases.
+
 [Poulet4 Project](https://github.com/verified-network-toolchain/petr4)\
 Jan 2021 - Aug 2023: Research Programmer\
 Mentors: [Nate Foster](https://www.cs.cornell.edu/~jnfoster/), [Andrew Appel](https://www.cs.princeton.edu/~appel/)\
-Implementing in Coq the p4cub IR for a verified p4 compiler, including type soundness & semantics-preserving transformations on the IR.\
+Implemented in Coq the p4cub IR for a verified p4 compiler, including type soundness & semantics-preserving transformations on the IR.\
 Wrote the type system in Coq for the p4light IR, including type soundness proofs.
 
 **Petr4 Project**\
@@ -63,6 +74,9 @@ Cornell CIS Fall 2017 – Fall 2018\
 
 Projects
 ======
+[Fast Ternary Convolution](https://github.com/lucat1/fast-ternary-convolution)\
+Spring 2024
+
 [Lambda Cube](https://github.com/rudynicolop/Lambda-Calculi-Coq)\
 May 2021 – June 2022
 
@@ -71,7 +85,6 @@ July – Oct 2021
 
 [Tapl Implementations](https://github.com/rudynicolop/TAPL-Coq)\
 June – Oct 2020
-
 
 **Xi Compiler**\
 Spring 2020\
@@ -83,7 +96,13 @@ Written in OCaml in a group for 4 for CS 4120 Compilers at Cornell.
 **CS 5414 Projects**\
 Fall 2019\
 Built fault-tolerant 3-phase Commit, Paxos, & Clusters of Order-Preserving Servers (COPS) in Golang in a team of 2.\
-For CS 5414 Distributed Computing at Cornell.
+In a team of 2 for CS 5414 Distributed Computing at Cornell.
+
+**Critter World**
+Fall 2017\
+Java written DSL for a "critter" program, including parsing and interpretation.\
+``Critters" interact as clients to a game server with a GUI.\
+In a team of 2 for CS 2112 Honors Object-Oriented Design and Data Structures at Cornell.
 
 Industry Experience
 ======
@@ -96,6 +115,9 @@ Skills
 **Programming Languages**\
 Favorites: Coq, OCaml, Haskell, Agda, Rust\
 Other: Python, C, Go, Java
+
+**Verification Frameworks**\
+Iris, Coq Equations, Viper, Z3
 
 **Languages**\
 English (fluent), German (learning)
