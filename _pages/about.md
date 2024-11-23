@@ -16,7 +16,7 @@ Previously I completed my Bachelor's at Cornell University where I was advised b
 
 I like travel, fiction, and cats (see Pico in the photo)!
 
-You can reach my via email at the following:
+You can reach me via email at the following:
 {%highlight haskell %}
 concat ["rpeterson", "@", "ethz.ch"]
 {% endhighlight %}
