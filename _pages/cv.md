@@ -14,7 +14,7 @@ Education
 **ETH Zürich**, Zürich Switzerland\
 Sep 2023 - Present\
 M.Sc. in Computer Science\
-Direct Doctorate Scholarship
+Direct Doctorate Scholarship\
 Thesis Title: [A Program Logic for Tree Borrows](http://rudynicolop.github.io/publications/2025-09-19-tree-borrows)
 
 **Cornell University**, Ithaca NY\
@@ -44,7 +44,7 @@ Research Experience
 ======
 **Mechanized Formal Language Theory**\
 Jan 2025 - Dec 2025: Student Researcher\
-Supervisors: [Franz Nowak](https://rycolab.io/authors/franz/), [Juan Luis Gastaldi](https://rycolab.io/authors/gianni/), [https://rycolab.io/authors/ryan/](https://rycolab.io/authors/ryan/)\
+Supervisors: [Franz Nowak](https://rycolab.io/authors/franz/), [Juan Luis Gastaldi](https://rycolab.io/authors/gianni/), [Ryan Cotterell](https://rycolab.io/authors/ryan/)\
 Mechanizing weighted formal language theory in Lean, hoping to upstream results to Mathlib.
 
 [**A Program Logic for Tree Borrows**](http://rudynicolop.github.io/publications/2025-09-19-tree-borrows)\
