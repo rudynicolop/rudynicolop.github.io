@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-**ETH Zurich**, Zurich Switzerland\
+**ETH Zürich**, Zürich Switzerland\
 Sep 2023 - Present\
 M.Sc. in Computer Science\
 Direct Doctorate Scholarship
+Thesis Title: [A Program Logic for Tree Borrows](http://rudynicolop.github.io/publications/2025-09-19-tree-borrows)
 
 **Cornell University**, Ithaca NY\
 Aug. 2016 – May 2020\
@@ -37,20 +38,32 @@ CPP 2023
 
 [Petr4: Formal Foundations for P4 Data Planes](http://rudynicolop.github.io/publications/2021-01-04-petr4)\
 Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, **Rudy Peterson**, Alaia Solko-Breslin, Amanda Xu, Nate Foster.\
-POPL 2020
+POPL 2021
 
 Research Experience
 ======
-**Logical Atomicity in Iris**\
-Aug 2024 - Present: Student Researcher\
-Mentor: [Ralf Jung](https://research.ralfj.de/)\
-Working on replacing the coinductive definition of logically-atomic hoare triples in Iris to relieve clients' proof burden to show that atomic updates are preserved in abort cases.
+**Mechanized Formal Language Theory**\
+Jan 2025 - Dec 2025: Student Researcher\
+Supervisors: [Franz Nowak](https://rycolab.io/authors/franz/), [Juan Luis Gastaldi](https://rycolab.io/authors/gianni/), [https://rycolab.io/authors/ryan/](https://rycolab.io/authors/ryan/)\
+Mechanizing weighted formal language theory in Lean, hoping to upstream results to Mathlib.
 
-[Poulet4 Project](https://github.com/verified-network-toolchain/petr4)\
+[**A Program Logic for Tree Borrows**](http://rudynicolop.github.io/publications/2025-09-19-tree-borrows)\
+March 2025 - September 2025: Master's thesis\
+Supervisors: Johannes Hostert, Ralf Jung\
+Built a mechanized separation logic in Iris for a core calculus with Tree Borrows.\
+Ghost state supports pointwise permission weakening, subtree deletion, and lateral tree separation.\
+Implemented a custom Lilac Tree data structure and library.
+
+**Logical Atomicity in Iris**\
+Aug 2024 - Feb 2025: Student Researcher\
+Supervisor: Ralf Jung\
+Experimented with replacing the coinductive definition of logically-atomic Hoare triples in Iris to relieve clients' proof burden to show that atomic updates are preserved in abort cases.
+
+[**Poulet4 Project**](https://github.com/verified-network-toolchain/petr4)\
 Jan 2021 - Aug 2023: Research Programmer\
 Mentors: [Nate Foster](https://www.cs.cornell.edu/~jnfoster/), [Andrew Appel](https://www.cs.princeton.edu/~appel/)\
-Implemented in Coq the p4cub IR for a verified p4 compiler, including type soundness & semantics-preserving transformations on the IR.\
-Wrote the type system in Coq for the p4light IR, including type soundness proofs.
+Implemented in Rocq the p4cub IR for a verified p4 compiler, including type soundness & semantics-preserving transformations on the IR.\
+Wrote the type system in Rocq for the p4light IR, including type soundness proofs.
 
 **Petr4 Project**\
 Jan 2019 - Aug 2020 : Undergrad Research Assistant\
@@ -74,16 +87,16 @@ Cornell CIS Fall 2017 – Fall 2018\
 
 Projects
 ======
-[Fast Ternary Convolution](https://github.com/lucat1/fast-ternary-convolution)\
+[**Fast Ternary Convolution**](https://github.com/lucat1/fast-ternary-convolution)\
 Spring 2024
 
-[Lambda Cube](https://github.com/rudynicolop/Lambda-Calculi-Coq)\
+[**Lambda Cube**](https://github.com/rudynicolop/Lambda-Calculi-Coq)\
 May 2021 – June 2022
 
-[Verified Type Reconstruction](https://github.com/rudynicolop/Type-Reconstruction)\
+[**Verified Type Reconstruction**](https://github.com/rudynicolop/Type-Reconstruction)\
 July – Oct 2021
 
-[Tapl Implementations](https://github.com/rudynicolop/TAPL-Coq)\
+[**Tapl Implementations**](https://github.com/rudynicolop/TAPL-Coq)\
 June – Oct 2020
 
 **Xi Compiler**\
@@ -113,11 +126,11 @@ Summer 2019
 Skills
 ======
 **Programming Languages**\
-Favorites: Coq, OCaml, Haskell, Agda, Rust\
+Favorites: Rocq, Lean, OCaml, Haskell, Agda, Rust\
 Other: Python, C, Go, Java
 
 **Verification Frameworks**\
-Iris, Coq Equations, Viper, Z3
+Iris, Rocq Equations, Viper, Z3
 
 **Languages**\
 English (fluent), German (learning)
